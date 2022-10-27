@@ -1,13 +1,10 @@
 {
-  "name": "หวยมาเลย์เล่นยังไง คืออะไร - เว็บใหม่ thailotto 2023 ล่าสุด",
+  "name": "RRf858ISKAX86E6CLvMNnU6cB7f4epvFEmMPvL3w3yyNWisHxG",
   "theme": "syntax",
   "version": "1.0.42",
   "description": "หวยมาเลย์เล่นยังไง ขั้นตอนที่ หวยมาเลย์เล่นยังไง ตั้งแต่ หวยมาเลย์เล่นยังไง Thailotto หวยออนไลน์ อันดับหนึ่ง 7 สามารถตรวจสอบโพยของท่านได้ที่เมนู โพยของฉัน",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": [
-    "หวยมาเลย์เล่นยังไง",
-    "หวยมาเลย์เล่นยังไง Thailotto"
-  ],
+  "keywords": ["หวยมาเลย์เล่นยังไง","หวยมาเลย์เล่นยังไง Thailotto"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
