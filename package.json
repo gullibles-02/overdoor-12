@@ -1,13 +1,10 @@
 {
-  "name": "สถิติหวยหุ้น มีคำตอบ - เว็บใหม่ huay24 2023 ล่าสุด-",
+  "name": "XXbjHyIuQgX6Rg85lLQnalEDEUnhwT8s9KmBJkAfd8TkVRwOFJ",
   "theme": "syntax",
   "version": "1.0.5",
   "description": "สถิติหวยหุ้น ทางระบบจะทำการคืนโพยและเครดิตให้ในกรณีที่ตลาดหุ้นไม่มีความเคลื่อนไหวใด ได้แก่ สถิติหวยหุ้น Huay24 หวย24 หวยออนไลน์ มีหวยทุกชนิด ๆ ภายใน 1 ชั่ว",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": [
-    "สถิติหวยหุ้น",
-    "สถิติหวยหุ้น Huay24"
-  ],
+  "keywords": ["สถิติหวยหุ้น","สถิติหวยหุ้น Huay24"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
