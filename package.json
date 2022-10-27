@@ -1,10 +1,16 @@
 {
-  "name": "W82gCICtLVJTnHlsbkMRcwCMmFtUNXQ8sStfu6W5oCFGWZD6Ak",
+  "name": "doglotto ดีไหม คืออะไร - เว็บใหม่ huaylike 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.13",
   "description": "Doglotto ดีไหม สำหรับเหล่าคอหวยท่านใดที่กำลังตามหาแนวทางเลขเด็ดแม่นๆเพื่อนำไปใช้ในการ แด่ Doglotto ดีไหม ที่ Huaylike เว็บหวยออนไลน์ อันดับหนึ่ง แทงหวยหุ้น",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": ["DOGLOTTO ดีไหม","DOGLOTTO","ดีไหม","DOGLOTTO Huaylike","ดีไหม Huaylike"],
+  "keywords": [
+    "DOGLOTTO ดีไหม",
+    "DOGLOTTO",
+    "ดีไหม",
+    "DOGLOTTO Huaylike",
+    "ดีไหม Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
