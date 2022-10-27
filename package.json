@@ -1,10 +1,13 @@
 {
-  "name": "0kAN18sr6w7nnoW1Gd3KUGBBRPK4kn5MBJi4PjZb1qfn9MfqHk",
+  "name": "lotto432 เล่นยังไง - เว็บใหม่ ruay 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.29",
   "description": "Lotto432 หวยเจ้าพายุ ต่อ Lotto432 ที่ Ruay เว็บหวยออนไลน์ อันดับหนึ่ง 11065 แนวทางหวยรัฐบาล หวยเด็ดงวดนี้ คุณไก่ วุฒินันท์ สอนศรีเลขเด็ด หวยเจ้าพายุ วันนี้",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": ["LOTTO432","LOTTO432 Ruay"],
+  "keywords": [
+    "LOTTO432",
+    "LOTTO432 Ruay"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
