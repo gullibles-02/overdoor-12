@@ -1,13 +1,10 @@
 {
-  "name": "chock ดูยังไง - เว็บใหม่ cat888 2023 ล่าสุด",
+  "name": "slZlNQgOs73CimTxqKD0bPYUGs3fjCbFBYuqy58CTrefu554Fc",
   "theme": "syntax",
   "version": "1.0.11",
   "description": "chock หวยไทยรัฐ และ chock ที่ Cat888 เว็บหวยออนไลน์ อันดับหนึ่ง เป็นชุดตารางเลขเด่นผลงานดีที่ทางเว็บไซต์หวยไทยของเรานำเสนอมาทุกงวด ในงวดนี้เราขอนำเสนออีกหน",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": [
-    "CHOCK",
-    "CHOCK Cat888"
-  ],
+  "keywords": ["CHOCK","CHOCK Cat888"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
