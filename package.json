@@ -1,10 +1,13 @@
 {
-  "name": "NcOIxshAFfOV9wtHo2UiM3YYpSP1Ix1qimaow221FqagxcFx0J",
+  "name": "แอพซื้อหวยฮานอย ดูยังไง - เว็บใหม่ choke 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.55",
   "description": "แอพซื้อหวยฮานอย หวยไทยรัฐ แด่ แอพซื้อหวยฮานอย Choke หวยออนไลน์ อันดับหนึ่ง เป็นชุดเลขเด่นผลงานดีที่น่าสนใจเช่นเดียวกันกับ หวยอาจารย์พรนิมิต 1362 งวดที่แล้ว",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": ["แอพซื้อหวยฮานอย","แอพซื้อหวยฮานอย Choke"],
+  "keywords": [
+    "แอพซื้อหวยฮานอย",
+    "แอพซื้อหวยฮานอย Choke"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
