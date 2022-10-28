@@ -1,10 +1,13 @@
 {
-  "name": "vSymHZFsyHEecgZrQg4wDeGwVYsz52bJuRKj19MxYF1vTWBSsc",
+  "name": "หวยไต้หวันออกวันไหน สมัครยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.81",
   "description": "หวยไต้หวันออกวันไหน ผมได้ทำหัวข้อแยกวิธีการเล่นทุกอย่างไว้แล้วครับ ได้แก่ หวยไต้หวันออกวันไหน Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด กดเข้าไปอ่านทีละหัวข้อไ",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": ["หวยไต้หวันออกวันไหน","หวยไต้หวันออกวันไหน Huaysod"],
+  "keywords": [
+    "หวยไต้หวันออกวันไหน",
+    "หวยไต้หวันออกวันไหน Huaysod"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
