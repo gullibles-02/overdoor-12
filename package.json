@@ -1,10 +1,13 @@
 {
-  "name": "GyOeQgknyVDmLBCDsjLvqooCf7HHsW7uNxNqqCdYNLBUTznYIB",
+  "name": "ตลาดหุ้นเกาหลีปิดกี่โมง มีคำตอบ - เว็บใหม่ masurebet 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.67",
   "description": "ตลาดหุ้นเกาหลีปิดกี่โมง ผลการออกรางวัล ว่าด้วย ตลาดหุ้นเกาหลีปิดกี่โมง Masurebet หวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอ",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": ["ตลาดหุ้นเกาหลีปิดกี่โมง","ตลาดหุ้นเกาหลีปิดกี่โมง Masurebet"],
+  "keywords": [
+    "ตลาดหุ้นเกาหลีปิดกี่โมง",
+    "ตลาดหุ้นเกาหลีปิดกี่โมง Masurebet"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
