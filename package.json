@@ -1,10 +1,22 @@
 {
-  "name": "Vp4RqpSBDGGlKWzSkIUGWNCHZSPONqqph4GFZxtfoswXhD0vJL",
+  "name": "หวย ลาว พัฒนา วัน นี้ ได้อย่างไร - เว็บใหม่ huay happy 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.66",
   "description": "หวย ลาว พัฒนา วัน นี้ เด่น ว่าด้วย หวย ลาว พัฒนา วัน นี้ Huay Happy หวยออนไลน์ อันดับหนึ่ง 0 ได้ชุดเลข 2 ตัวดังนี้02-03-05-0672-73-75-76เด่น 9 ได้ชุดเลข 2 ",
   "repository": "https://github.com/gullibles-02/overdoor-12",
-  "keywords": ["หวย ลาว พัฒนา วัน นี้","หวย","ลาว","พัฒนา","วัน","นี้","หวย Huay Happy","ลาว Huay Happy","พัฒนา Huay Happy","วัน Huay Happy","นี้ Huay Happy"],
+  "keywords": [
+    "หวย ลาว พัฒนา วัน นี้",
+    "หวย",
+    "ลาว",
+    "พัฒนา",
+    "วัน",
+    "นี้",
+    "หวย Huay Happy",
+    "ลาว Huay Happy",
+    "พัฒนา Huay Happy",
+    "วัน Huay Happy",
+    "นี้ Huay Happy"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
